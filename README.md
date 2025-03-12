@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Hrn-cTn
 - 👀 I’m interested in Web Developer,  Mobile Development
 - 🌱 I’m currently learning Asp.net 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ua.harun.cetin3@gmail.com
